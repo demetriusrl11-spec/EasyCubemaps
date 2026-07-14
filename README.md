@@ -1,2 +1,0 @@
-# EasyCubemaps
-Makes Cubemaps Easier 
